@@ -1,0 +1,8 @@
+.settings
+*.pyc
+*.exe
+*.so
+*.dll
+*.a
+*.lib
+*.LIB
