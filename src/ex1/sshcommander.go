@@ -23,7 +23,7 @@ func (s *SSHCommander) Command(cmd ...string) *exec.Cmd {
 	return exec.Command("ssh", arg...)
 }
 
-func main() {
+func main2() {
 	commander := SSHCommander{"root", "50.112.213.24"}
 
 	cmd := []string{
