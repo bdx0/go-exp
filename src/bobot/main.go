@@ -1,9 +1,8 @@
 package main
-
 import (
-  "bosic"
+  "fmt"
 )
 
 func main() {
-  bosic.Main()
+  fmt.Println("Hello bobot")
 }
