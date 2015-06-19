@@ -13,5 +13,5 @@ if os.name  == 'nt':
     os.system('go build %s && bin\%s.exe && rm %s.exe' % (pkg_name,  pkg_name,  pkg_name))
     # os.system('start cmd')
 else:
-    os.system('cd src/%s && pwd && go get ./...' % (pkg_name))
+    os.system('echo $GOPATH && cd src/%s && pwd && go get ./...' % (pkg_name))
     os.system('cd bin && ./%s && rm *' % (pkg_name))

@@ -1,6 +1,24 @@
-# Go experiment
+## Read it
 
-# todo
-
-# Feature
-## Action
+- https://threatpost.com/peer-to-peer-botnets-resilient-to-takedown-attempts/100851
+- https://en.wikipedia.org/wiki/Botnet
+- http://thehackernews.com/2012/03/thor-another-p2p-botnet-in-development.html
+- http://krebsonsecurity.com/tag/p2p-botnet/
+- http://www.computer.org/csdl/trans/tq/2010/02/ttq2010020113-abs.html
+- http://www.honeynet.org/node/53
+- https://www.usenix.org/legacy/event/hotbots07/tech/full_papers/wang/wang_html/
+- https://www.usenix.org/legacy/event/hotbots07/tech/full_papers/grizzard/grizzard_html/index.html
+- http://resources.infosecinstitute.com/botnets-how-do-they-work-architectures-and-case-studies-part-2/
+- http://resources.infosecinstitute.com/botnets-and-cybercrime-introduction/
+- http://www.howtogeek.com/142380/htg-explains-is-tor-really-anonymous-and-secure/
+- https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+- http://www.hongkiat.com/blog/do-donts-tor-network/
+- http://www.dailydot.com/politics/tor-dark-net-study-size/
+- http://www.bbc.com/news/technology-29950946
+- http://www.slideshare.net/priyankaharjai169/botnet-16569055
+- http://www.slideshare.net/aungthurhahein/botnets-101
+- http://www.slideshare.net/nottykavisha/botnets-16197252
+- http://www.slideshare.net/ZIANEBilal/intro-to-botnets-bilal-ziane
+- http://www.slideshare.net/rob.ragan/cloudbots-harvesting-crypto-currency-like-a-botnet-farmer
+- http://www.slideshare.net/prisonbreak4950/botnet-11769874
+- http://www.slideshare.net/HansMichaelVarbaek/botnets-of-the-web-how-to-hijack-one
