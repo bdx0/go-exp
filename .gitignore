@@ -43,3 +43,5 @@ src/github.com/mattn
 src/github.com/stefankopieczek
 src/golang.org/x
 src/gopkg.in
+
+bin/*
