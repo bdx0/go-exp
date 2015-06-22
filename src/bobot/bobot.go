@@ -1,9 +1,9 @@
 package bobot
 
 import (
-  "fmt"
+	"fmt"
 )
 
 func Bobot() {
-  fmt.Println("Hello bobot")
+	fmt.Println("Hello bobot")
 }

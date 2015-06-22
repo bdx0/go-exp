@@ -45,3 +45,4 @@ src/golang.org/x
 src/gopkg.in
 
 bin/*
+.tag*

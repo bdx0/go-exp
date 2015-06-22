@@ -1,9 +1,9 @@
 package main
 
 import (
-	"bobot"
+	"bounqlite"
 )
 
 func main() {
-	bobot.Bobot()
+	bounqlite.Run()
 }
