@@ -1,9 +1,11 @@
 package main
 
 import (
-	"bounqlite"
+	"bobot"
+	db "ddb"
 )
 
 func main() {
-	bounqlite.Run()
+	db.Run()
+	bobot.Ex1()
 }

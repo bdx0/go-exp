@@ -1,11 +1,11 @@
 package bounqlite
 
 import (
-	"fmt"
-	bolt "github.com/boltdb/bolt"
-	"io/ioutil"
+	bolt "bolt"
+	"log"
 )
 
+// Run the example
 func Run() {
 	// Open the my.db data file in your current directory.
 	// It will be created if it doesn't exist.
