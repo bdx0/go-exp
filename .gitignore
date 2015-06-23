@@ -34,13 +34,7 @@ _testmain.go
 
 src/code.google.com/p/go.net
 src/scalegun.com/v1
-src/github.com/ZhangBanger
-src/github.com/discoviking
-src/github.com/gogo
-src/github.com/libgit2
-src/github.com/nsf
-src/github.com/mattn
-src/github.com/stefankopieczek
+src/github.com/*
 src/golang.org/x
 src/gopkg.in
 
